@@ -48,7 +48,8 @@ int main() {
   seletor(numeros, tamanho);
   
   printf("\n");
-  printf("Sorted vetor in Acsending Order:\n");
+  
+  printf("Maior no final:\n");
   
   printArray(numeros, tamanho);
 }
